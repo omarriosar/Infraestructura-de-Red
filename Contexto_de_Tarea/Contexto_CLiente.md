@@ -7,6 +7,8 @@ A partir del croquis arquitectónico de distribución y los requerimientos opera
     <img src="Media/Croquis.png" alt="Croquis Traveler">
 </p>
 
+> Consulta el croquis usando el programa [SweetHome3D](https://www.sweethome3d.com/) y descargando [el croquis](Traveler.sh3d).
+
 ---
 
 Durante el levantamiento de requerimientos con el área de arquitectura, se establecieron los siguientes tipos de nodos y dispositivos finales:
